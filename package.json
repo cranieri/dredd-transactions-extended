@@ -1,5 +1,5 @@
 {
-  "name": "dredd-transactions",
+  "name": "dredd-transactions-extended",
   "version": "1.0.0",
   "description": "Compiles HTTP Transactions (Request-Response pairs) from API description document",
   "main": "lib/dredd-transactions.js",
