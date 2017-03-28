@@ -1,5 +1,5 @@
 
-ut = require 'uri-template'
+ut = require 'uri-template-extended'
 
 
 expandUriTemplateWithParameters = (uriTemplate, parameters) ->
